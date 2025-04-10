@@ -68,9 +68,9 @@ with the gap becoming more pronounced at higher levels.
 
 ## 🔍 Summary of Key Insights
 
-- 🔹 Average salary is higher for males across most levels
-- 🔹 Female salary distribution is more balanced, while male salaries have a wider range
-- 🔹 The gender pay gap becomes more significant at higher job levels
+- Average salary is higher for males across most levels
+- Female salary distribution is more balanced, while male salaries have a wider range
+- The gender pay gap becomes more significant at higher job levels
 
 ---
 
